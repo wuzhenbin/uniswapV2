@@ -1,6 +1,8 @@
 
 hh compile
 
+hello world
+
 hh deploy 
 hh deploy --network localhost
 hh deploy --network sepolia
